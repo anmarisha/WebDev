@@ -1,0 +1,26 @@
+MDN - Mozilla Development Network
+
+If no closing tag - the effect will be applied to all text until the end of the doc.
+
+To move cursor to the end/start of the string - End/Home keys
+
+lorem + Tab - random text
+
+! + Enter -> gives boilerplate - html skeleton
+
+Ctrl + P -> >command line to see shortcuts
+
+Ctrl + /  = to use line as comment
+
+Shift + Alt + F -> format code nicely
+
+Shift + Alt + arrow down -> copy previous line (useful for lists)
+
+<ol> - ordered list
+<ul> - unordered list
+
+<ol>
+    <li>
+</ol>
+
+Anchor - <a href="full link with http:">link name</a>
